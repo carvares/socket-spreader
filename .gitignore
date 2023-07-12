@@ -1,0 +1,5 @@
+dist
+.env
+.yaml
+node_modules
+```
